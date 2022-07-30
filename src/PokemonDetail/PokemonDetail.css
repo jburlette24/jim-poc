@@ -1,0 +1,6 @@
+.pokemonDetails {
+    margin: 1rem;
+    width: 50 rem;
+    text-align: left;
+    text-transform: capitalize;
+}
